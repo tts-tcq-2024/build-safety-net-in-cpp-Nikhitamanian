@@ -1,4 +1,3 @@
-[Yesterday 11:50 AM] Mv Shreenidhi (SX/ETM12-EM)
 #include <gtest/gtest.h>
 
 #include "Soundex.h"
